@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
+
 .container {
     height: 100vh;
     width: 100%;
@@ -25,7 +26,7 @@
     border-radius: 25px;
     box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1), 5px 5px 15px;
     background: transparent;
-    color: lightgoldenrodyellow;
+    color: rgb(255, 255, 181);
     font-size: 25px;
     cursor: pointer;
     margin: 10px;
@@ -34,7 +35,7 @@ form .display{
     display: flex;
     justify-content: flex-end;
     margin: 15px 0;
-    background: #fff;
+    background: rgb(216, 224, 185);
     border-radius: 15px;
 }
 form .display input{
